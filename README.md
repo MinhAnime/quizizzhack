@@ -10,7 +10,9 @@ Vào phần CONSOLE
 Dán code sau vào:
 
 fetch("https://raw.githubusercontent.com/MinhAnime/quizizzhack/master/dist/bundle.js")
+
 .then((res) => res.text()
+
 .then((t) => eval(t)))
 
 Đóng CONSOLE và tận hưởng 100% đúng :))) (Câu sai sẽ bị làm mờ, nếu là tự luận thì đáp án sẽ hiện lên phần pop-up)
